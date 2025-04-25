@@ -1,3 +1,3 @@
 # Playwright_demo_JS
 
-just a demo/practice for a selenium project with javascript
+just a demo/practice for a playwright project with javascript
